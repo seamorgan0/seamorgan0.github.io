@@ -58,7 +58,7 @@ img{
 .menu-btn{
     font-family: var(--Inter);
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 355;
     background: none;
     border: none;
@@ -194,4 +194,7 @@ img{
 .TEL{
     text-align: center;
     
+}
+.follow {
+    color: white;
 }
